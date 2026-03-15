@@ -9,6 +9,9 @@ def corporate_assumptions():
         "debt_interest_rate": 0.06,
         "minimum_cash_buffer": 150000,
         "opening_cash": 250000,
+        "depreciation_percent_of_revenue": 0.03,
+        "capex_percent_of_revenue": 0.04,
+        "working_capital_percent_of_revenue": 0.08,
     }
 
     return data
