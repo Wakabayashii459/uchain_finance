@@ -1,8 +1,6 @@
 # uchain_finance
 
-`uchain_finance` is a Python-based financial modelling prototype for an energy-platform style business.
-
-The project demonstrates how commercial finance analysis can be automated in Python instead of relying solely on spreadsheets. It models a simplified energy marketplace where renewable generators supply electricity to commercial customers through a platform.
+`uchain_finance` is a Python-based financial modelling prototype for an energy-platform.
 
 The model includes:
 
